@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="Java">#b07219</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="splashBgColor">#FFFFFF</color>
+
+
+
+
+    <color name="TypeScript">#2b7489</color>
+    <color name="Objective">#6866fb</color>
+    <color name="Jupyter">#2b7489</color>
+    <color name="Shell">#89e051</color>
+    <color name="Ruby">#701516</color>
+    <color name="Go">#375eab</color>
+    <color name="PHP">#4F5D95</color>
+    <color name="Scala">#DC322F</color>
+
+    <color name="Perl">#0298c3</color>
+    <color name="Verilog">#b2b7f8</color>
+    <color name="CoffeeScript">#244776</color>
+    <color name="HTML">#e44b23</color>
+    <color name="Swift">#ffac45</color>
+    <color name="C">#555555</color>
+    <color name="VHDL">#adb2cb</color>
+    <color name="Assembly">#6E4C13</color>
+
+    <color name="Sharp">#178600</color>
+    <color name="CSS">#563d7c</color>
+    <color name="JavaScript">#f1e05a</color>
+    <color name="Matlab">#bb92ac</color>
+    <color name="R">#198ce7</color>
+
+    <color name="Scheme">#1e4aec</color>
+    <color name="Python">#3572A5</color>
+
+</resources>
